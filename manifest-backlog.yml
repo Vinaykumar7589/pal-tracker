@@ -1,5 +1,5 @@
 applications:
-- name: tracker-backlog-vinay2
+- name: tracker-backlog-vinay
   path: ./applications/backlog-server/build/libs/backlog-server.jar
   routes:
   - route: backlog-pal-vinaykumar.apps.dev.pcf-aws.com
